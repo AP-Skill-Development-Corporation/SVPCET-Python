@@ -1,0 +1,46 @@
+Day-01[25-10-2021]:
+===================
+	Good Afternoon to All..
+
+	Python Installation:
+	====================
+	- First open browser and search to download the python software
+	- Python Official link:
+		=> https://python.org
+	- After entering into the site you can observe the downloads menu
+	- You need to place cursor on that download option menu then it will displays some options as 
+		-> windows
+		-> Mac
+	- You need to select the windows if you are a windows users then selecting that link you re going to navigate for a page
+	- In that page it displays 2 options of the releases you need to download the python particular version on stable releases only[It is at left side of the page].
+	- If you need to select a particular version you need to select at left side of a pane [either 3.7.5 or else 3.x]
+	- At particular versions you can observer different options to download. Its based on windows you need to select the bit of a python either a 32 or else 64 bit.
+	- If your system is 64 bit compatible you need to select "windows x86-64 executeable installer". If it is 32 bit then you need to select "windows x86 executeable installer" only.
+	- After selecting that you need to click on that to download the python software.
+	- If the download is completed then you need to double tap on that python software. It will displays the window as to start the installation process.
+	- Two options are "custom Installation" and "Install now"
+	- Custom installation is you are choosing the path where you are going to install that python software.
+	- Install now is default path that can be allocated to this location of your systems [c:\users\xxxxx\AppData\Local\Programs\Python3x\]
+	- In that also you need to select the checkbox with "Add Python-3.x path to environment variable". If it is checked then it will works directly for command prompt instead of idle.
+	- You need to select "Install Now" to start the installation process and wait untill the dialog shows as "Setup is successfully".
+	- If is done you need to close the dialog window
+
+	Python Checking:
+	================
+	- First you need to open command prompt and type the command as
+		=> python --version
+	- Here it wil display the whatever the verion you had choosen to install that version will be displayed in command prompt itself below the command
+
+	If the python is not showing a version or any errors?
+	-----------------------------------------------------
+	1. First you need to check how many version you had installed?
+	2. Have you checked a "Add Python-3.x for environment variable" or not?
+
+	Running a Python Program with Basic Procedure:
+	==============================================
+	- First you need to have basic editor [Notepad]
+	- Then python software is installed in your system
+	- Type a sample program then open that file path location through command prompt to execute it.
+	- To execute a python you need to run the command in command prompt as "filename.py" and press enter whatever the output you are expecting that will be displayed in the comand prompt.
+
+	

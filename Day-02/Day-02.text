@@ -1,0 +1,53 @@
+Day-02[26-10-2021]:
+===================
+	Good Morning to All...
+
+	=> First Basic [Notepad => cmd]
+	=> Second [Advanced Editors => geany,sublime,notepad++,atom] => shortcuts
+	=> IDLE => Run
+	=> Jupyter Notebook
+
+Jupyter Notebook Installation:
+==============================
+	
+	=> pip [To install third party packages for python]
+	=> pip --version
+	=> pip install jupyter notebook
+
+Running of jupyter Notebook:
+============================
+	=> cmd
+	=> jupyter notebook
+
+jupyter Notebook:
+=================
+	
+	=> .ipynb
+	=> I => Interactive
+	=> Py => Python
+	=> nb => Notebook
+
+=> Literate Programming:
+	=> Text Format [Documentation]
+	=> Coding [Execute]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
