@@ -9,3 +9,7 @@
   - Running of jupyter notebook,markdown format,code format
   - Executing Python program in Jupyter notebook
   - Variables,Data types,Type Casting
+## Day-03[27-10-2021]:
+  - Coditional Statements like if,if-else,nested if and elif with sample examples on each
+  - Loops {for,while}
+  - range function useage with paramaters explanation
