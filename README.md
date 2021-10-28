@@ -13,3 +13,9 @@
   - Coditional Statements like if,if-else,nested if and elif with sample examples on each
   - Loops {for,while}
   - range function useage with paramaters explanation
+## Day-04[28-10-2021]:
+  - Inner Loop Concept with sample example
+  - Jumping statements concept with sample example
+  - Data Structures concepts explanation
+  - Brief explanation about list,tuple and string methods with sample examples on each
+  - Solved sample example on hackerrank baesd on ist concept
