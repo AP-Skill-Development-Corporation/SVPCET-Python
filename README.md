@@ -18,4 +18,7 @@
   - Jumping statements concept with sample example
   - Data Structures concepts explanation
   - Brief explanation about list,tuple and string methods with sample examples on each
-  - Solved sample example on hackerrank baesd on ist concept
+  - Solved sample example on hackerrank based on list concept
+## Day-05[29-10-2021]:
+  - String remaining methods
+  - Sets, dictionary methods with sample examples on each
