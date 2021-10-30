@@ -22,3 +22,10 @@
 ## Day-05[29-10-2021]:
   - String remaining methods
   - Sets, dictionary methods with sample examples on each
+## Day-06[30-10-2021]:
+  - Lambda,filter,map,functions and its types with arguments
+  - Files Concepts with read,write and append modes with sample example on each.
+
+Feed Back Link:
+===============
+Click here to give feed back [Click Here](https://docs.google.com/forms/d/e/1FAIpQLSdZpX0WD5FNl-HfOQVTiX02Yld1fDNQ9d_1AYqM2CWwtijATA/viewform)
